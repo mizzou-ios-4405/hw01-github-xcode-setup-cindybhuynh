@@ -6,6 +6,6 @@ After reading the instructions, update the information below as directed.
 
 
 Name: Cindy Huynh
-Course: INFOTC 4405 / CMP_SC 4405
+Course: INFOTC 4405
 Section: In person
 Semester: Spring 2026
